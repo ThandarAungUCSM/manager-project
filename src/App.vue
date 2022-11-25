@@ -35,3 +35,6 @@ nav a.router-link-exact-active {
 </style>
 
 <!-- https://cli.vuejs.org/guide/cli-service.html -->
+<!--
+https://www.google.com/search?q=FREE+Hosting+for+your+Vue.js+App!+(Deploy+to+Netlify)&oq=FREE+Hosting+for+your+Vue.js+App!+(Deploy+to+Netlify)&aqs=chrome..69i57j0i546l4.296j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:6b3514c0,vid:W2lGxvNs2KM 
+-->
