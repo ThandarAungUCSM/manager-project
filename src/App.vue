@@ -1,9 +1,9 @@
 <template>
   <div id="app">
-    <nav>
+    <!-- <nav>
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
-    </nav>
+    </nav> -->
     <router-view/>
   </div>
 </template>
@@ -15,6 +15,9 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+}
+body {
+  margin: 0;
 }
 
 nav {
@@ -30,3 +33,5 @@ nav a.router-link-exact-active {
   color: #42b983;
 }
 </style>
+
+<!-- https://cli.vuejs.org/guide/cli-service.html -->

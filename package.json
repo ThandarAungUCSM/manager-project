@@ -1,5 +1,5 @@
 {
-  "name": "super-hero-project",
+  "name": "manager-project",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,8 +8,11 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "bootstrap": "^5.2.2",
+    "bootstrap-vue": "^2.23.1",
+    "element-ui": "^2.15.10",
     "register-service-worker": "^1.7.2",
-    "vue": "^2.6.14",
+    "vue": "^2.7.14",
     "vue-router": "^3.5.1",
     "vuex": "^3.6.2"
   },
@@ -21,6 +24,8 @@
     "@vue/cli-service": "~5.0.0",
     "eslint": "^7.32.0",
     "eslint-plugin-vue": "^8.0.3",
+    "sass": "^1.56.1",
+    "sass-loader": "^10.3.1",
     "vue-template-compiler": "^2.6.14"
   }
 }
