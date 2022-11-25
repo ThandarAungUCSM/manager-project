@@ -100,7 +100,7 @@ export default {
         this.trueBar = false;
         console.log(this.trueBar);
       } else {
-        console.log('else ', this.trueBar);
+        // console.log('else ', this.trueBar);
         this.sidebar_close();
       }
     },
