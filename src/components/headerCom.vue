@@ -98,9 +98,7 @@ export default {
     onClickOutside() {
       if(this.trueBar == true) {
         this.trueBar = false;
-        console.log(this.trueBar);
       } else {
-        console.log('else ', this.trueBar);
         this.sidebar_close();
       }
     },
@@ -204,6 +202,7 @@ export default {
     height: 100%;
     position: fixed !important;
     z-index: 1;
+    z-index: 2;
     overflow: auto;
 
     padding-top: 10px;
